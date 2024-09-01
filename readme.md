@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-Main project in my React course. Built with React Query and Supabse!!!!
+Main project in my React course. Built with React Query and Supabse.
 
 <!-- # React + Vite
 
