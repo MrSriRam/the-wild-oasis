@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-import Stats from './stats'
+import Stats from './Stats'
 import Spinner from '../../ui/Spinner'
 
 import { useRecentBookings } from './useRecentBookings'
