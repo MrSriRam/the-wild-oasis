@@ -77,7 +77,8 @@ function UpdateUserDataForm() {
           onClick={handleCancel}>
           Cancel
         </Button>
-        <Button disabled={isUpdating}>Update account</Button>
+        <Button disabled>Update account</Button>
+        {/* <Button disabled={isUpdating}>Update account</Button> */}
       </FormRow>
     </Form>
   )
